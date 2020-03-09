@@ -1,0 +1,3 @@
+﻿  code1_printf.cpp
+C:\Users\PC\source\repos\chap02_ print basic c++\chap02_ print basic c++\code1_printf.cpp(36,13): warning C4326:  'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  chap02_ print basic c++.vcxproj -> C:\Users\PC\source\repos\chap02_ print basic c++\Debug\chap02_ print basic c++.exe
